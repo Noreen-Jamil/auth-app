@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Noreen-Jamil/auth-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Noreen-Jamil/auth-app/static/js/main.d7caad59.chunk.js",
+    "main.js.map": "/Noreen-Jamil/auth-app/static/js/main.d7caad59.chunk.js.map",
+    "runtime-main.js": "/Noreen-Jamil/auth-app/static/js/runtime-main.e7b96054.js",
+    "runtime-main.js.map": "/Noreen-Jamil/auth-app/static/js/runtime-main.e7b96054.js.map",
+    "static/js/2.62ff0520.chunk.js": "/Noreen-Jamil/auth-app/static/js/2.62ff0520.chunk.js",
+    "static/js/2.62ff0520.chunk.js.map": "/Noreen-Jamil/auth-app/static/js/2.62ff0520.chunk.js.map",
+    "static/js/3.b02b6aa8.chunk.js": "/Noreen-Jamil/auth-app/static/js/3.b02b6aa8.chunk.js",
+    "static/js/3.b02b6aa8.chunk.js.map": "/Noreen-Jamil/auth-app/static/js/3.b02b6aa8.chunk.js.map",
+    "index.html": "/Noreen-Jamil/auth-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Noreen-Jamil/auth-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.62ff0520.chunk.js.LICENSE.txt": "/Noreen-Jamil/auth-app/static/js/2.62ff0520.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Noreen-Jamil/auth-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7b96054.js",
+    "static/js/2.62ff0520.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.d7caad59.chunk.js"
+  ]
+}
